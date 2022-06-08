@@ -3,3 +3,5 @@
 
 如果要退出编辑可以先esc。然后：wq即可。如果想要不保存就退出，可以：q！退出
 lalalalala
+lalachange
+删除行：esc +dd llalala 
